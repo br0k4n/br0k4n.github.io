@@ -1,0 +1,4 @@
+title: br0k3n-br0ad
+theme: minima
+plugins:
+ - jekyll-feed
