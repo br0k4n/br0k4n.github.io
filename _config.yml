@@ -1,6 +1,6 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: br0k4n-br0ad
+url: ""
 paginate: 1
 baseurl: ""
 permalink: pretty
@@ -32,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: LnN
+  url: https://twitter.com/lnn2204
+    #email: 
 
 # Custom vars
 version: 3.0.0
