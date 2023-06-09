@@ -1,0 +1,19 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Br0k3n-Br0ad
+tagline:          The Jekyll Butler
+url:              https://br0k4n.github.io/
+paginate:         1
+baseurl:          /
+paginate_path: "/baseurl/page:num/"
+
+# Custom vars
+version:          1.0.0
+github:
+  repo:           https://github.com/poole/poole
