@@ -28,12 +28,12 @@ sass:
 # Options
 
 # Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
+ga_analytics: G-173BE34SLM
 
 # Specify the author for blog posts
 author:
   name: LnN
-  url: https://twitter.com/lnn2204
+  url: https://twitter.com/LnN_NotAName
     #email: 
 
 # Custom vars
