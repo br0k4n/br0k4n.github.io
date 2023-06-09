@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-	Hey there, thank you for being here!
+  Hey there, thank you for being here!
 
 Whoami: An IT guy who's breaking into CyberSec without any degrees or certs.
 
