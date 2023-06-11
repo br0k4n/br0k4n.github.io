@@ -33,6 +33,7 @@ The Phases will be called through this![image](https://github.com/br0k4n/br0k4n.
   phase_defused()
   ```
 I saw that `phase_1(input)`, let have a look at that.
+
 ![image](https://github.com/br0k4n/br0k4n.github.io/assets/136005668/0b32df21-33e3-428f-ba8e-d61dadd4b2dd)
 
 We saw the function named `strings_not_equal` then I knew that will be compare to second argument. We had `TEST EAX, EAX` and `JZ LAB_140012062` so if the ZeroFlag is set, then we can go to the next phase. Just dig in then you could saw the strings to get into Phase_2.
