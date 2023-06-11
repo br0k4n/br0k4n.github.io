@@ -6,7 +6,7 @@ title: Let's get started!
 
 # My thank you
 
-First of all, I want to say thanks to Mr.Xeno, who created a lot of courses for reverse engineering and this first post will be about the `#0969DA` **Binary_Bomb_lab** the lab for a beginer like me.
+First of all, I want to say thanks to Mr.Xeno, who created a lot of courses for reverse engineering and this first post will be about the  **Binary_Bomb_lab** the lab for a beginer like me.
 You also can find course via this link: https://p.ost2.fyi/
 
 # Now let's start the **Binary_Bomb_lab**
